@@ -1,4 +1,3 @@
-Intuito do Projeto
 O objetivo deste projeto é desenvolver e otimizar um sistema de alocação de recursos em redes computacionais utilizando técnicas de Aprendizado de Máquina (AM). Através da modelagem de grafos, buscamos simular diferentes cenários de rede, onde nós representam recursos computacionais (como servidores e máquinas virtuais) e arestas representam as conexões entre esses recursos.
 
 Principais Metas:
